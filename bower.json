@@ -1,0 +1,13 @@
+{
+    "name": "numbrrrs",
+    "version": "0.0.1",
+    "dependencies": {
+        "angular-animate": "latest",
+        "angular-touch": "latest",
+        "angular-material": "0.6.0",
+        "angular": "latest"
+    },
+    "devDependencies": {
+        "angular-mocks": "latest"
+    }
+}

@@ -1,0 +1,862 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"n",
+				"ng-leave-active"
+			],
+			[
+				"ng",
+				"ng-leave"
+			],
+			[
+				"anima",
+				"animated-txt"
+			],
+			[
+				"anim",
+				"animated-txt"
+			],
+			[
+				"las",
+				"lastQuestionWrong"
+			],
+			[
+				"last",
+				"lastQuestionRight"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"FA",
+				"false"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"pro",
+				"processResp"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"ra",
+				"rawResponse"
+			],
+			[
+				"ran",
+				"randomIndex"
+			],
+			[
+				"$ht",
+				"$http	AngularJS"
+			],
+			[
+				"$htt",
+				"verbose_$http	AngularJS"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"fi",
+				"firstSiblingfirstChild"
+			],
+			[
+				"grand",
+				"grandparentRect"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"paren",
+				"parent"
+			],
+			[
+				"rese",
+				"resetear"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"mover",
+				"moverCabeceras"
+			],
+			[
+				"scro",
+				"scroll"
+			],
+			[
+				"scr",
+				"scrollr"
+			],
+			[
+				"dire",
+				"directive"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"move",
+				"moveRowspans"
+			],
+			[
+				"webkit-tr",
+				"webkit-transition"
+			],
+			[
+				"tab",
+				"tablaChula"
+			],
+			[
+				"row",
+				"rowChula"
+			],
+			[
+				"fir",
+				"firstElement"
+			],
+			[
+				"z",
+				"zero"
+			],
+			[
+				"trans",
+				"transf"
+			],
+			[
+				"tran",
+				"transf"
+			],
+			[
+				"css",
+				"cssmin"
+			],
+			[
+				"first",
+				"firstElement"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"slide",
+				"slide-right"
+			],
+			[
+				"ng-s",
+				"ng-switch-when"
+			],
+			[
+				"ng-if",
+				"ng-if"
+			],
+			[
+				"to",
+				"toDate"
+			],
+			[
+				"$state",
+				"$stateParams"
+			],
+			[
+				"alt",
+				"altTablaActSinCabec"
+			],
+			[
+				"style",
+				"styleTopNumber"
+			],
+			[
+				"al",
+				"altTablaActSinCabec"
+			],
+			[
+				"value",
+				"valueOf"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"cl",
+				"clientHeight"
+			],
+			[
+				"rows",
+				"rowspans"
+			],
+			[
+				"hidden",
+				"hidden-lg"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"mo",
+				"moveRowspans"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"altura",
+				"alturaTablaAnterior"
+			],
+			[
+				"firs",
+				"firstElement"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"po",
+				"positionX"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"rowsp",
+				"rowspan-heading"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"f",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"is",
+				"isLocal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 4850,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/main/main.controller.js",
+			"settings":
+			{
+				"buffer_size": 2362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/index.scss",
+			"settings":
+			{
+				"buffer_size": 740,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/icons/question30.svg",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/numbrrrs/bower.json",
+		"/D/numbrrrs/src/app/index.js",
+		"/D/numbrrrs/src/app/main/main.filters.js",
+		"/D/numbrrrs/src/app/main/main.services.js",
+		"/D/numbrrrs/bower_components/angular-material/bower.json",
+		"/D/numbrrrs/src/index.html",
+		"/D/numbrrrs/src/app/index.scss",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/numbrrrs/src/app/main/main.controller.js",
+		"/D/numbrrrs/package.json",
+		"/D/numbrrrs/gulp/wiredep.js",
+		"/D/numbrrrs/bower_components/angular-material/angular-material.js",
+		"/D/numbrrrs/src/components/navbar/navbar.html",
+		"/D/numbrrrs/src/assets/images/bars.svg",
+		"/D/numbrrrs/src/app/main/main.service.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/common/directives/utils.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/common/filters/filters-utils.js",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/status.jade",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/globals/_shame.scss",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/modules/_status.scss",
+		"/D/vdf-dashboard/Desarrollo/Gruntfile.js",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/demo.css",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/demo.htm",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/user/status/status-controller.js",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/app.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/app.js",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/layouts/default-partials/_common-body.jade",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/demo_multiple_iscrolls.html",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/demo_multiple_iscrolls.htm",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/angular/angular.js",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/iscroll/build/iscroll-probe.js",
+		"/D/BU/vdf-dashboard BU/Desarrollo/app/scripts/common/directives/utils.js",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/layouts/default-partials/_html-header.jade",
+		"/D/vdf-dashboard/Desarrollo/app/index.html",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/common/directives/infiniteScroll.js",
+		"/D/vdf-dashboard/Desarrollo/app/styles/main.css",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/themes/bootstrap/bootstrap-vdf-dashboard.scss",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/main.scss",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/styles.scss",
+		"/D/vdf-dashboard/Desarrollo/.tmp/concat/styles/styles.css",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/common/services/req-s.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/app-config-services.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/app-config.js",
+		"/D/vdf-dashboard/Desarrollo/app/styles/themes/bootstrap/bootstrap-vdf-red-channel.css",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/common/services/transform-request-service.js",
+		"/D/vdf-dashboard/Desarrollo/server.js",
+		"/D/vdf-dashboard/Desarrollo/dist/styles/9bb74ddb.main.css",
+		"/D/vdf-dashboard/Desarrollo/dist/index.html",
+		"/D/vdf-dashboard/Desarrollo/package.json",
+		"/D/iSales-Front/server.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/user/status/status-home-controller.js",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/globals/_fix-icons.scss",
+		"/D/iSales-Front/app/assets/sass/styles.scss",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/themes/bootstrap/_variables.scss",
+		"/D/iSales-Front/app/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/D/iSales-Front/Gruntfile.js",
+		"/D/iSales-Front/app/index.html",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/layouts/default-partials/_header.jade",
+		"/D/vdf-dashboard/Desarrollo/app/styles/styles.css",
+		"/D/vdf-dashboard/Desarrollo/dist-server.js",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/themes/bootstrap/_tables.scss",
+		"/D/vdf-dashboard/Desarrollo/app/bower_components/sass-bootstrap/lib/_tables.scss",
+		"/D/vdf-dashboard/Desarrollo/app/styles/vendors/bootstrap.css",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/modules/_dashboard.scss",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/globals/_animations.scss",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/dashboard/dashboard-status.jade",
+		"/D/logout service antiguo",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/user/activity/activity-controller.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/user/issues/issues-controller.js",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/details.jade",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/dashboard/dashboard-issues.jade",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/dashboard.jade",
+		"/D/vdf-dashboard/Desarrollo/server_files/routes.js",
+		"/D/vdf-dashboard/Desarrollo/server_files/dummy/activities.js",
+		"/D/vdf-dashboard/Desarrollo/server_files/dummy/issues-old.js",
+		"/D/vdf-dashboard/Desarrollo/server_files/dummy/issues.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/user/details/details-controller.js",
+		"/D/vdf-dashboard/Desarrollo/server_files/dummy/status.js",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/dashboard/dashboard-activity.jade",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/main-view.jade",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/globals/_variables.scss",
+		"/D/vdf-dashboard/Desarrollo/.sass-cache/8a02c969103def99e19da56d40927e23ae1dc57b/_status.scssc",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/modules/_details.scss",
+		"/D/vdf-dashboard/Desarrollo/app/views/components/dashboard/dashboard-status.html",
+		"/D/vdf-dashboard/Desarrollo/app/assets/sass/modules/_responsive-table.scss",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/common/services/utils-service.js",
+		"/D/vdf-dashboard/Desarrollo/app/assets/jade/index.jade",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/user/activity/activity-service.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/logout/logout-controller.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/user/issues/issues-service.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/login/login-controller.js",
+		"/D/vdf-dashboard/Desarrollo/app/scripts/user/user-controller.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\vdf-dashboard\\Desarrollo\\app",
+			"D:\\vdf-dashboard\\Desarrollo\\app\\scripts,D:\\vdf-dashboard\\Desarrollo\\app\\assets",
+			"D:\\vdf-dashboard\\Desarrollo\\app\\",
+			"D:\\vdf-dashboard\\Desarrollo\\app\\scripts",
+			"D:\\vdf-dashboard\\Desarrollo\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"animated",
+			"animate-switch",
+			"height",
+			"107px",
+			"\n          ",
+			"\n            ",
+			"    ",
+			"height",
+			"ngAnimate",
+			"delay: 100",
+			", {duration: 10}",
+			"\"translateY(0px)\"",
+			"\"translateY(\" ",
+			"\"px)\"",
+			"transform",
+			"back",
+			"compass",
+			"over",
+			"watch",
+			"{}\n",
+			"transformRequestAsFormPost",
+			"gly",
+			"cssmin",
+			"carousel",
+			"car",
+			"useminPrepare",
+			"ngmin",
+			" '",
+			"compass",
+			"concur",
+			"cssmin",
+			"rev",
+			"concat",
+			"10",
+			"1000",
+			"jquery",
+			"position",
+			"-webkit-overflow-scrolling: touch",
+			"overflow",
+			"-webkit-overflow-scrolling",
+			"fixed",
+			"slide-{{$root.direction}}",
+			"livereload",
+			"rev",
+			"usemin",
+			"uglify",
+			"cssmin",
+			"class",
+			"then",
+			"dist",
+			"setVars",
+			"to",
+			"setVars",
+			"track",
+			"range",
+			"if (range == 'weekly') $scope.to = moment(from).add(7, 'days').endOf('day').toDate(); ",
+			"-10",
+			"-30",
+			")+30",
+			"slide",
+			"class=\"slide-{{$root.direction}}\" ",
+			"response.data[0]",
+			"modified",
+			"priority",
+			"issue",
+			");\n",
+			"response.data",
+			"data",
+			"fade-in",
+			"ng-repeat",
+			"ng-class=\"$root.animationClass\"",
+			"intercept",
+			"ng-class=",
+			"slide-left",
+			"ng-class=\"$parent.animationClass\"",
+			"class=\"rotate\"",
+			"class=\"slide-left\"",
+			"class=\"rotate\"",
+			"slide-left",
+			"animate",
+			"class=\"animate\"",
+			"ng-animate",
+			"cubic-bezier(0.250, 0.250, 0.750, 0.750)",
+			"1000ms",
+			"400ms",
+			"ng-repeat",
+			"#e6e6e6",
+			"weekly",
+			"ng-click",
+			"previous",
+			"back",
+			"window.innerWidth",
+			"translateProvider",
+			"range",
+			"timeout",
+			"HOME.STATUS",
+			"hasnext",
+			"hasNext",
+			"lr-infinite-scroll='next' ",
+			"positionX",
+			"padding: 14",
+			".fixed-heading",
+			"cabeceras[0]",
+			"log",
+			"fixed-heading",
+			"rowspan-heading",
+			"raw",
+			"position-body-table",
+			"death",
+			"userconfig",
+			"responseData",
+			"ActivityListFactory",
+			"responseData"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"settings":
+					{
+						"buffer_size": 4850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1883,
+								1883
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 441.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/main/main.controller.js",
+					"settings":
+					{
+						"buffer_size": 2362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1963,
+								1963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 391.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/index.scss",
+					"settings":
+					{
+						"buffer_size": 740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/assets/icons/question30.svg",
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 222.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"status.ja",
+				"app/assets/jade/components/status.jade"
+			],
+			[
+				"shame",
+				"app/assets/sass/globals/_shame.scss"
+			],
+			[
+				"status",
+				"app/assets/sass/modules/_status.scss"
+			],
+			[
+				"stat",
+				".sass-cache/8a02c969103def99e19da56d40927e23ae1dc57b/_status.scssc"
+			],
+			[
+				"statushome",
+				"app/scripts/user/status/status-home-controller.js"
+			],
+			[
+				"status.",
+				"server_files/dummy/status.js"
+			],
+			[
+				"dash",
+				"app/assets/jade/components/dashboard/dashboard-status.jade"
+			],
+			[
+				"issue",
+				"app/scripts/user/issues/issues-service.js"
+			],
+			[
+				"services",
+				"app/scripts/app-config-services.js"
+			],
+			[
+				"dashboard",
+				"app/assets/jade/components/dashboard/dashboard-status.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/iSales-Front/iSales.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}

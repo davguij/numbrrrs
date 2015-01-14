@@ -1,0 +1,115 @@
+<!doctype html>
+<html class="no-js" ng-app="numbrrrs">
+
+<head>
+    <meta charset="utf-8">
+    <title>numbrrrs</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+    <!-- build:css({.tmp,src}) styles/vendor.css -->
+    <!-- bower:css -->
+    <link rel="stylesheet" href="../bower_components/angular-material/angular-material.css" />
+    <link rel="stylesheet" href="../bower_components/angular-material/themes/blue-grey-theme.css" />
+    <link rel="stylesheet" href="../bower_components/angular-material/themes/red-theme.css" />
+    <link rel="stylesheet" href="../bower_components/angular-material/themes/green-theme.css" />
+    <!-- endbower -->
+    <!-- endbuild -->
+
+
+    <!-- build:css({.tmp,src}) styles/app.css -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="app/index.css">
+    <!-- endinject -->
+    <!-- endbuild -->
+
+</head>
+
+<body md-theme="blue-grey" ng-controller="MainCtrl">
+    <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <md-toolbar ng-attr-class="{{lastQuestion && class + ' animated-bg' || 'md-blue-grey-theme animated-bg'}}">
+        <div class="md-toolbar-tools wrapper" ng-switch on="lastQuestion">
+            <span class="animated-txt" ng-switch-when="right">correct!</span>
+            <span class="animated-txt" ng-switch-when="wrong">oh noes!</span>
+            <span class="animated-txt" ng-switch-default>numbrrrs</span>
+            <!-- fill up the space between left and right area -->
+            <span flex></span>
+            <md-button>
+                You have {{score}} points.
+            </md-button>
+            <md-button ng-click="showAlert($event)" aria-label="how to play">
+                <md-tooltip>
+                    How to play?
+                </md-tooltip>
+                <md-icon icon="/assets/icons/question30.svg">
+                </md-icon>
+            </md-button>
+
+        </div>
+    </md-toolbar>
+    <md-content class="md-padding wrapper">
+        <md-card>
+            <div layout="column" layout-align="center" ng-hide="question">
+                <img src="assets/icons/bars.svg" />
+            </div>
+            <div ng-show="question">
+                {{question.text | capitalize}}.
+                <div layout="row" layout-align="center">
+                    <form>
+                        <md-text-float type="number" label="Guess the number!" ng-model="answer"></md-text-float>
+                    </form>
+                </div>
+                <div layout="column"></div>
+                <md-slider flex md-discrete ng-model="answer" min="1" max="1000">
+                </md-slider>
+                <div layout="row" layout-align="center">
+                    <md-button ng-disabled="answer === null" class="md-raised md-primary" ng-click="checkAnswer()">Check the answer!</md-button>
+                </div>
+            </div>
+        </md-card>
+        <!-- TODO place a theme chooser? -->
+        <!-- Place a footer with name, techs, etc -->
+    </md-content>
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.
+    <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-XXXXX-X');ga('send','pageview');
+    </script>
+    -->
+    <!-- build:js scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="../bower_components/angular/angular.js"></script>
+    <script src="../bower_components/angular-animate/angular-animate.js"></script>
+    <script src="../bower_components/angular-touch/angular-touch.js"></script>
+    <script src="../bower_components/angular-aria/angular-aria.js"></script>
+    <script src="../bower_components/hammerjs/hammer.js"></script>
+    <script src="../bower_components/angular-material/angular-material.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:js({.tmp,src}) scripts/app.js -->
+    <!-- inject:js -->
+    <script src="app/index.js"></script>
+    <script src="components/navbar/navbar.controller.js"></script>
+    <script src="app/main/main.services.js"></script>
+    <script src="app/main/main.filters.js"></script>
+    <script src="app/main/main.controller.js"></script>
+    <!-- endinject -->
+
+    <!-- inject:partials -->
+    <!-- angular templates will be automaticaly converted in js and inserted here -->
+    <!-- endinject -->
+    <!-- endbuild -->
+
+</body>
+
+</html>
