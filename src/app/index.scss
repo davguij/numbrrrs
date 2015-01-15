@@ -29,5 +29,25 @@
     height: 32px;
     fill: #EEEEEE;
 }
+.loading {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    /* works with row or column */
+    
+    flex-direction: row;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    img {
+        width: 48px;
+    }
+}
+md-toolbar {
+    button {
+        color: #fff;
+    }
+}
 // injector
 // endinjector

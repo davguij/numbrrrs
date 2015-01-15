@@ -2,9 +2,11 @@
     'use strict';
 
     angular.module('numbrrrs')
-        .controller('MainCtrl', function($scope, MainService, $animate, $timeout, $mdDialog) {
+        .controller('MainCtrl', function($scope, MainService, $animate, $timeout, $mdDialog, $window) {
 
             $scope.score = 0;
+            $scope.rounds = 9;
+            $scope.gameOver = false;
             // $scope.lastQuestion = false;
 
             var newQuestion = function() {
@@ -14,7 +16,15 @@
                 });
             };
 
+            var oneMoreRound = function() {
+                $scope.rounds = $scope.rounds + 1;
+                if ($scope.rounds == 10) {
+                    $scope.gameOver = true;
+                };
+            }
+
             $scope.checkAnswer = function() {
+                oneMoreRound();
                 if ($scope.answer == $scope.question.number) {
                     $scope.lastQuestion = "right";
                     $scope.class = "md-green-theme";
@@ -51,6 +61,10 @@
                     .ok("Let's play then!");
                 $mdDialog
                     .show(alert)
+            }
+
+            $scope.startAgain = function() {
+                $window.location.reload();
             }
 
         });

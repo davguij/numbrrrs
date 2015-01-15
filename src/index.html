@@ -38,8 +38,8 @@
             <span class="animated-txt" ng-switch-default>numbrrrs</span>
             <!-- fill up the space between left and right area -->
             <span flex></span>
-            <md-button>
-                You have {{score}} points.
+            <md-button class="toolbar-button" ng-hide="gameOver">
+                {{score}} <span ng-if="score == 1">point</span><span ng-if="score != 1">points</span> in {{rounds}} <span ng-if="rounds == 1">round</span><span ng-if="rounds != 1">rounds</span>
             </md-button>
             <md-button ng-click="showAlert($event)" aria-label="how to play">
                 <md-tooltip>
@@ -52,23 +52,34 @@
         </div>
     </md-toolbar>
     <md-content class="md-padding wrapper">
-        <md-card>
-            <div layout="column" layout-align="center" ng-hide="question">
-                <img src="assets/icons/bars.svg" />
+        <div class="loading" layout="column" layout-align="center" ng-hide="question">
+            <img class="loadingIcon" src="assets/icons/bars.svg" />
+        </div>
+        <md-card ng-show="question && !gameOver">
+            {{question.text | capitalize}}.
+            <div layout="row" layout-align="center">
+                <form>
+                    <md-text-float type="number" label="Guess the number!" ng-model="answer"></md-text-float>
+                </form>
             </div>
-            <div ng-show="question">
-                {{question.text | capitalize}}.
-                <div layout="row" layout-align="center">
-                    <form>
-                        <md-text-float type="number" label="Guess the number!" ng-model="answer"></md-text-float>
-                    </form>
-                </div>
-                <div layout="column"></div>
-                <md-slider flex md-discrete ng-model="answer" min="1" max="1000">
-                </md-slider>
-                <div layout="row" layout-align="center">
-                    <md-button ng-disabled="answer === null" class="md-raised md-primary" ng-click="checkAnswer()">Check the answer!</md-button>
-                </div>
+            <div layout="column"></div>
+            <md-slider flex md-discrete ng-model="answer" min="1" max="1000">
+            </md-slider>
+            <div layout="row" layout-align="center">
+                <md-button ng-disabled="answer === null" class="md-raised md-primary" ng-click="checkAnswer()">Check the answer!</md-button>
+            </div>
+        </md-card>
+
+        <md-card ng-if="gameOver">
+            <div layout="row" layout-align="center">
+                <h2>Game over!</h2>
+            </div>
+            <div layout="row" layout-align="center">
+                <h4>Your score is {{score}} / 10!</h4>
+                <!-- share buttons! -->
+            </div>
+            <div layout="row" layout-align="center">
+                <md-button class="md-raised md-primary" ng-click="startAgain()">Let's play again!</md-button>
             </div>
         </md-card>
         <!-- TODO place a theme chooser? -->
