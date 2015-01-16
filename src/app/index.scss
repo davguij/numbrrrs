@@ -1,3 +1,6 @@
+body {
+    overflow: hidden;
+}
 .wrapper {
     max-width: 480px;
     margin: auto;
@@ -48,6 +51,17 @@ md-toolbar {
     button {
         color: #fff;
     }
+}
+md-bottom-sheet {
+    background-color: #E1E1E1;
+    border: 0;
+    img {
+        max-width: 64px;
+    }
+}
+.footer-signature {
+    text-align: center;
+    padding: 10px 0;
 }
 // injector
 // endinjector

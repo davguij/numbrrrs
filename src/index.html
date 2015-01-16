@@ -38,14 +38,14 @@
             <span class="animated-txt" ng-switch-default>numbrrrs</span>
             <!-- fill up the space between left and right area -->
             <span flex></span>
-            <md-button class="toolbar-button" ng-hide="gameOver">
+            <md-button class="toolbar-button" hide-sm ng-hide="gameOver">
                 {{score}} <span ng-if="score == 1">point</span><span ng-if="score != 1">points</span> in {{rounds}} <span ng-if="rounds == 1">round</span><span ng-if="rounds != 1">rounds</span>
             </md-button>
             <md-button ng-click="showAlert($event)" aria-label="how to play">
                 <md-tooltip>
                     How to play?
                 </md-tooltip>
-                <md-icon icon="/assets/icons/question30.svg">
+                <md-icon icon="/assets/icons/question.svg">
                 </md-icon>
             </md-button>
 
@@ -76,26 +76,51 @@
             </div>
             <div layout="row" layout-align="center">
                 <h4>Your score is {{score}} / 10!</h4>
-                <!-- share buttons! -->
+            </div>
+            <div layout="row" layout-align="center">
+                <a twitter data-url='http://davguij.github.io/numbrrrs' data-size="large" data-text='Yey! I just made {{score}} points playing at numbrrrs, a cool game by @davguij. Think you can beat me?' data-count="none"></a>
             </div>
             <div layout="row" layout-align="center">
                 <md-button class="md-raised md-primary" ng-click="startAgain()">Let's play again!</md-button>
             </div>
         </md-card>
-        <!-- TODO place a theme chooser? -->
-        <!-- Place a footer with name, techs, etc -->
     </md-content>
+    <!-- TODO place a theme chooser? -->
+    <!-- Place a footer with name, techs, etc -->
 
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.
-    <script>
-      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-      e.src='//www.google-analytics.com/analytics.js';
-      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-      ga('create','UA-XXXXX-X');ga('send','pageview');
-    </script>
-    -->
+    <md-bottom-sheet>
+        <div class="md-padding wrapper" layout="column" layout-align="center">
+            <div class="footer-signature">
+                Lovingly thought, designed and coded by <a href="http://twitter.com/davguij">David Guijarro</a>
+            </div>
+            <div layout="row" hide-sm layout-align="center center" layout-margin layout-fill layout-padding>
+                <div flex>
+                    <img src="assets/images/angular.png">
+                </div>
+                <div flex>
+                    <img src="assets/images/angular-material.png">
+                </div>
+                <div flex>
+                    <img src="assets/images/yeoman.png">
+                </div>
+                <div flex>
+                    <img src="assets/images/gulp.png">
+                </div>
+                <div flex>
+                    <img src="assets/images/node-sass.png">
+                </div>
+                <div>
+                    <!-- Github fork button -->
+                    <a class="github-button" href="https://github.com/davguij/numbrrrs" data-icon="octicon-git-branch" data-style="mega">Fork</a>
+                </div>
+            </div>
+        </div>
+    </md-bottom-sheet>
+
+    <!-- Los JS del boton de GitHub y de Twitter -->
+    <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+    <script src="https://platform.twitter.com/widgets.js"></script>
+
     <!-- build:js scripts/vendor.js -->
     <!-- bower:js -->
     <script src="../bower_components/angular/angular.js"></script>
@@ -113,6 +138,7 @@
     <script src="components/navbar/navbar.controller.js"></script>
     <script src="app/main/main.services.js"></script>
     <script src="app/main/main.filters.js"></script>
+    <script src="app/main/main.directives.js"></script>
     <script src="app/main/main.controller.js"></script>
     <!-- endinject -->
 

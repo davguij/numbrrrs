@@ -5,20 +5,19 @@
         .controller('MainCtrl', function($scope, MainService, $animate, $timeout, $mdDialog, $window) {
 
             $scope.score = 0;
-            $scope.rounds = 9;
+            $scope.rounds = 0;
             $scope.gameOver = false;
             // $scope.lastQuestion = false;
 
             var newQuestion = function() {
                 MainService.loadQuestion().then(function(result) {
                     $scope.question = result.data;
-                    console.log($scope.question.number);
                 });
             };
 
             var oneMoreRound = function() {
                 $scope.rounds = $scope.rounds + 1;
-                if ($scope.rounds == 10) {
+                if ($scope.rounds >= 10) {
                     $scope.gameOver = true;
                 };
             }
@@ -57,7 +56,7 @@
             $scope.showAlert = function() {
                 var alert = $mdDialog.alert()
                     .title('How to play numbrrrs?')
-                    .content("Playing numbrrrs is really easy. It's like a trivia, but the answer to every question is a number (or, like we like to say, a 'numbrrr'.) You can use the slider or the number field to enter your answer to each question. Each round consists of ten question. For each correct answer you'll get a point. That's pretty much it!")
+                    .content("Playing numbrrrs is really easy. It's like a trivia, but the answer to every question is a number (or, like we like to say, a 'numbrrr') between 0 and 1,000. You can use the slider or the number field to enter your answer to each question. Each game consists of ten rounds. For each correct answer you'll get one point. That's pretty much it!")
                     .ok("Let's play then!");
                 $mdDialog
                     .show(alert)
