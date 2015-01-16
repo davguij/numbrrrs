@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"b",
+				"bd	border"
+			],
+			[
+				"ta",
+				"ta:c	text-align:center"
+			],
+			[
+				"f",
+				"footer	Tag"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
 				"wid",
 				"width"
 			],
@@ -38,10 +54,6 @@
 			[
 				"FA",
 				"false"
-			],
-			[
-				"if",
-				"ife	if … else"
 			],
 			[
 				"pro",
@@ -292,10 +304,6 @@
 				"getElementsByClassName"
 			],
 			[
-				"f",
-				"for	for (…) {…} (Improved Native For-Loop)"
-			],
-			[
 				"pos",
 				"pos:a	position:absolute"
 			],
@@ -311,38 +319,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/index.html",
-			"settings":
-			{
-				"buffer_size": 4850,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/app/main/main.controller.js",
-			"settings":
-			{
-				"buffer_size": 2362,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/app/index.scss",
-			"settings":
-			{
-				"buffer_size": 740,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/assets/icons/question30.svg",
-			"settings":
-			{
-				"buffer_size": 981,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -351,7 +327,15 @@
 		"selected_items":
 		[
 			[
-				"ins",
+				"c",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"pac",
 				"Package Control: Install Package"
 			],
 			[
@@ -359,12 +343,32 @@
 				"Package Control: Discover Packages"
 			],
 			[
-				"p",
-				"Package Control: List Packages"
+				"wra",
+				"HTML: Wrap Selection With Tag"
 			],
 			[
-				"pac",
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrA",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ins",
 				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
 			],
 			[
 				"pack",
@@ -392,6 +396,22 @@
 	},
 	"file_history":
 	[
+		"/D/my/numbrrrs/src/index.html",
+		"/D/my/numbrrrs/src/app/index.scss",
+		"/D/my/numbrrrs/src/app/main/main.controller.js",
+		"/D/my/numbrrrs/package.json",
+		"/D/my/numbrrrs/src/app/main/main.directives.js",
+		"/D/my/numbrrrs/LICENSE.txt",
+		"/D/my/numbrrrs/src/app/index.js",
+		"/D/my/numbrrrs/src/components/tweetbutton/main.directives.js",
+		"/D/my/numbrrrs/src/components/tweetbutton/tweetbutton.html",
+		"/D/my/numbrrrs/src/app/main/main.services.js",
+		"/D/my/numbrrrs/src/assets/icons/question.svg",
+		"/D/my/numbrrrs/gulpfile.js",
+		"/D/my/numbrrrs/.gitignore",
+		"/D/my/numbrrrs/gulp/build.js",
+		"/D/my/numbrrrs/.editorconfig",
+		"/D/my/numbrrrs/src/assets/icons/question30.svg",
 		"/D/numbrrrs/bower.json",
 		"/D/numbrrrs/src/app/index.js",
 		"/D/numbrrrs/src/app/main/main.filters.js",
@@ -507,6 +527,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gameFinished",
 			"animated",
 			"animate-switch",
 			"height",
@@ -637,119 +658,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/index.html",
-					"settings":
-					{
-						"buffer_size": 4850,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1883,
-								1883
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 441.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/app/main/main.controller.js",
-					"settings":
-					{
-						"buffer_size": 2362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1963,
-								1963
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 391.0,
-						"translation.y": 347.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/app/index.scss",
-					"settings":
-					{
-						"buffer_size": 740,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								709,
-								709
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/assets/icons/question30.svg",
-					"settings":
-					{
-						"buffer_size": 981,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								475,
-								475
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
