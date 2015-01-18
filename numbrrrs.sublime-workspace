@@ -319,17 +319,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "# numbrrrs -- It's a numbers _(trivia)_ game\n**numbrrrs** is a trivia-style game with a twist. The answer to every question in the game is a number between 0 and 1,000.\n\n##How to play\nThe game is very simple. Each game consists of 10 rounds.\nWhen you start playing, you'll see a description, such as _\"The number of grams in an ounce (approximately), and used as such in the illegal drug trade.\"_\nYou'll also see a text field, a slider and a big lone button.\nEnter a number between 0 and 1,000 that you think fits with the description and hit the button to check if you're right.\nFor each right answer, you'll get one point.\nThe game ends after ten rounds, so the best possible score is 10 points.\nThat's pretty much it. Good luck!\n\n##How it's build\n**numbrrrs** uses a few techs and gimmicks, namely:\n - The so cool [Numbers API](http://numbersapi.com/ \"Numbers API\") by [David Hu](http://david-hu.com/) and [Mack Duan](http://mduan.com/). Thanks to both for putting it up. Also, the API is consumed through [Mashape](https://www.mashape.com/divad12/numbers).\n - [AngularJS](https://angularjs.org/) and the [Angular Material Design project](https://material.angularjs.org/).\n - Just a little bit of [SASS](http://sass-lang.com/).\n - [Yeoman](http://yeoman.io/), with the usual [Bower](http://bower.io/) and [Gulp.js](http://gulpjs.com/), wrapped by the awesome [gulp-angular generator](https://github.com/Swiip/generator-gulp-angular). I actually want to mention the \"wiredep\" task, it works like a charm and saves a ton of time and headaches.\n - GitHub Pages for automated deployment, through the [gulp-gh-pages](https://github.com/rowoot/gulp-gh-pages) plugin.\n \n##How to contribute\nChanges and improvements are more than welcome! Feel free to fork and open a pull request in the `master` branch. Thanks!\n",
-			"file": "README.md",
-			"file_size": 1826,
-			"file_write_time": 130658916603361852,
-			"settings":
-			{
-				"buffer_size": 1808,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -407,9 +396,10 @@
 	},
 	"file_history":
 	[
-		"/D/my/numbrrrs/numbrrrs.sublime-project",
 		"/D/my/numbrrrs/src/index.html",
 		"/D/my/numbrrrs/src/app/index.scss",
+		"/D/my/numbrrrs/README.md",
+		"/D/my/numbrrrs/numbrrrs.sublime-project",
 		"/D/my/numbrrrs/src/app/main/main.controller.js",
 		"/D/my/numbrrrs/package.json",
 		"/D/my/numbrrrs/src/app/main/main.directives.js",
@@ -670,35 +660,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"settings":
-					{
-						"buffer_size": 1808,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1808,
-								1808
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

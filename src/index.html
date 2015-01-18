@@ -26,7 +26,7 @@
 
 </head>
 
-<body md-theme="blue-grey" ng-controller="MainCtrl">
+<body md-theme="blue-grey" ng-controller="MainCtrl" ng-cloak>
     <!--[if lt IE 10]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
@@ -41,12 +41,8 @@
             <md-button class="toolbar-button" hide-sm ng-hide="gameOver">
                 {{score}} <span ng-if="score == 1">point</span><span ng-if="score != 1">points</span> in {{rounds}} <span ng-if="rounds == 1">round</span><span ng-if="rounds != 1">rounds</span>
             </md-button>
-            <md-button ng-click="showAlert($event)" aria-label="how to play">
-                <md-tooltip>
-                    How to play?
-                </md-tooltip>
-                <md-icon icon="/assets/icons/question.svg">
-                </md-icon>
+            <md-button class="md-raised md-primary" ng-click="showAlert($event)" aria-label="how to play">
+                How to play?
             </md-button>
 
         </div>
