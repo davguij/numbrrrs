@@ -1,6 +1,10 @@
 {
   "name": "numbrrrs",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davguij/numbrrrs.git"
+    },
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "~1.7.1",

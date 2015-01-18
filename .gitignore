@@ -5,4 +5,4 @@ bower_components/
 dist/
 *.sublime-project
 *.sublime-workspace
-*.sublime-workspace
+*.log

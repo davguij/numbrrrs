@@ -4,316 +4,200 @@
 		"selected_items":
 		[
 			[
-				"b",
-				"bd	border"
-			],
-			[
-				"ta",
-				"ta:c	text-align:center"
-			],
-			[
-				"f",
-				"footer	Tag"
-			],
-			[
-				"if",
-				"if	if"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"n",
-				"ng-leave-active"
-			],
-			[
-				"ng",
-				"ng-leave"
-			],
-			[
-				"anima",
-				"animated-txt"
-			],
-			[
-				"anim",
-				"animated-txt"
-			],
-			[
-				"las",
-				"lastQuestionWrong"
-			],
-			[
-				"last",
-				"lastQuestionRight"
-			],
-			[
-				"$sc",
-				"$scope	AngularJS"
-			],
-			[
-				"FA",
-				"false"
-			],
-			[
-				"pro",
-				"processResp"
-			],
-			[
-				"fun",
-				"fun	Function"
-			],
-			[
-				"ra",
-				"rawResponse"
-			],
-			[
-				"ran",
-				"randomIndex"
-			],
-			[
-				"$ht",
-				"$http	AngularJS"
-			],
-			[
-				"$htt",
-				"verbose_$http	AngularJS"
-			],
-			[
-				"re",
-				"request"
-			],
-			[
-				"fo",
-				"form	Tag"
-			],
-			[
-				"fi",
-				"firstSiblingfirstChild"
-			],
-			[
-				"grand",
-				"grandparentRect"
-			],
-			[
-				"cons",
-				"console"
-			],
-			[
-				"paren",
-				"parent"
-			],
-			[
-				"rese",
-				"resetear"
+				"boo",
+				"boosts"
 			],
 			[
 				"for",
 				"for	for (…) {…} (Improved Native For-Loop)"
 			],
 			[
-				"mover",
-				"moverCabeceras"
+				"fun",
+				"function"
 			],
 			[
-				"scro",
-				"scroll"
+				"res",
+				"response"
 			],
 			[
-				"scr",
-				"scrollr"
+				"re",
+				"request"
 			],
 			[
-				"dire",
-				"directive"
+				"requ",
+				"require"
 			],
 			[
-				"s",
-				"src"
+				"co",
+				"collection2"
 			],
 			[
-				"move",
-				"moveRowspans"
+				"price",
+				"priceBTC"
 			],
 			[
-				"webkit-tr",
-				"webkit-transition"
+				"roi",
+				"roi_today"
 			],
 			[
-				"tab",
-				"tablaChula"
+				"pri",
+				"priceUSD"
 			],
 			[
-				"row",
-				"rowChula"
+				"retur",
+				"returns_today"
 			],
 			[
-				"fir",
-				"firstElement"
+				"coo",
+				"cookIndeedData"
 			],
 			[
-				"z",
-				"zero"
+				"ra",
+				"rawData"
 			],
 			[
-				"trans",
-				"transf"
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
 			],
 			[
-				"tran",
-				"transf"
+				"indeed",
+				"indeedAPI"
 			],
 			[
-				"css",
-				"cssmin"
+				"in",
+				"indeed"
 			],
 			[
-				"first",
-				"firstElement"
+				"gl",
+				"glassdoorAPI"
 			],
 			[
-				"scroll",
-				"scrollTop"
+				"inde",
+				"indeedAPI"
 			],
 			[
-				"el",
-				"element"
+				"git",
+				"github"
 			],
 			[
-				"st",
-				"style"
+				"se",
+				"secondLang"
 			],
 			[
-				"slide",
-				"slide-right"
-			],
-			[
-				"ng-s",
-				"ng-switch-when"
-			],
-			[
-				"ng-if",
-				"ng-if"
+				"fi",
+				"firstLang"
 			],
 			[
 				"to",
-				"toDate"
+				"total_count"
 			],
 			[
-				"$state",
-				"$stateParams"
+				"fu",
+				"fullResponse"
 			],
 			[
-				"alt",
-				"altTablaActSinCabec"
+				"get",
+				"getGithub"
 			],
 			[
-				"style",
-				"styleTopNumber"
+				"gi",
+				"github"
 			],
 			[
-				"al",
-				"altTablaActSinCabec"
+				"g",
+				"github"
 			],
 			[
-				"value",
-				"valueOf"
+				"sele",
+				"selectedLang01"
 			],
 			[
-				"$root",
-				"$rootScope	AngularJS"
+				"selected",
+				"selectedLang01"
 			],
 			[
-				"$roo",
-				"$rootScope	AngularJS"
+				"selec",
+				"selectedLang01"
 			],
 			[
-				"parent",
-				"parentNode"
+				"htt",
+				"http"
 			],
 			[
-				"cl",
-				"clientHeight"
+				"op",
+				"option	Tag"
 			],
 			[
-				"rows",
-				"rowspans"
+				"l",
+				"link	Tag"
 			],
 			[
-				"hidden",
-				"hidden-lg"
+				"mar",
+				"margin"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"ma",
+				"maps"
+			],
+			[
+				"vidas",
+				"vidasARestar"
+			],
+			[
+				"fl",
+				"fl-r	float: right;"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"game-c",
+				"game-container-background"
+			],
+			[
+				"bri",
+				"bright-text-color"
+			],
+			[
+				"col",
+				"color-fondo"
+			],
+			[
+				"tile",
+				"tile-color"
+			],
+			[
+				"photoswipe",
+				"photoswipe"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
 			],
 			[
 				"wi",
 				"width"
 			],
 			[
-				"padd",
-				"padding-right"
-			],
-			[
-				"mar",
-				"margin-left"
-			],
-			[
-				"pa",
-				"padding-left"
-			],
-			[
-				"pad",
-				"padding-right"
-			],
-			[
-				"mo",
-				"moveRowspans"
-			],
-			[
-				"min",
-				"min-height"
-			],
-			[
-				"altura",
-				"alturaTablaAnterior"
-			],
-			[
-				"firs",
-				"firstElement"
-			],
-			[
-				"mi",
-				"min-height"
-			],
-			[
-				"po",
-				"positionX"
-			],
-			[
-				"i",
-				"if	if"
-			],
-			[
-				"scrol",
-				"scrollTop"
-			],
-			[
-				"rowsp",
-				"rowspan-heading"
-			],
-			[
-				"get",
-				"getElementsByClassName"
-			],
-			[
-				"pos",
-				"pos:a	position:absolute"
-			],
-			[
-				"back",
-				"background-attachment"
-			],
-			[
-				"is",
-				"isLocal"
+				"photo",
+				"photoswipe"
 			]
 		]
 	},
@@ -327,63 +211,39 @@
 		"selected_items":
 		[
 			[
-				"c",
-				"Color Picker"
+				"pa",
+				"Package Control: Install Package"
 			],
 			[
-				"color",
-				"Color Picker"
+				"Snippet: ",
+				"Snippet: @if"
+			],
+			[
+				"packc",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
 			],
 			[
 				"pac",
-				"Package Control: Install Package"
-			],
-			[
-				"pa",
 				"Package Control: Discover Packages"
 			],
 			[
-				"wra",
-				"HTML: Wrap Selection With Tag"
-			],
-			[
-				"tog",
-				"Toggle Comment"
-			],
-			[
-				"wr",
-				"HTML: Wrap Selection With Tag"
-			],
-			[
-				"REIN",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"wrA",
-				"HTML: Wrap Selection With Tag"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
-				"p",
-				"Package Control: List Packages"
-			],
-			[
-				"pack",
-				"Package Control: Install Package"
-			],
-			[
 				"packa",
-				"Package Control: Install Package"
+				"Preferences: Browse Packages"
 			]
 		],
-		"width": 472.0
+		"width": 449.0
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -394,132 +254,117 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/davidguijarro/Documents/numbrrrs"
+	],
 	"file_history":
 	[
-		"/D/my/numbrrrs/src/index.html",
-		"/D/my/numbrrrs/src/app/index.scss",
-		"/D/my/numbrrrs/src/app/main/main.controller.js",
-		"/D/my/numbrrrs/package.json",
-		"/D/my/numbrrrs/src/app/main/main.directives.js",
-		"/D/my/numbrrrs/LICENSE.txt",
-		"/D/my/numbrrrs/src/app/index.js",
-		"/D/my/numbrrrs/src/components/tweetbutton/main.directives.js",
-		"/D/my/numbrrrs/src/components/tweetbutton/tweetbutton.html",
-		"/D/my/numbrrrs/src/app/main/main.services.js",
-		"/D/my/numbrrrs/src/assets/icons/question.svg",
-		"/D/my/numbrrrs/gulpfile.js",
-		"/D/my/numbrrrs/.gitignore",
-		"/D/my/numbrrrs/gulp/build.js",
-		"/D/my/numbrrrs/.editorconfig",
-		"/D/my/numbrrrs/src/assets/icons/question30.svg",
-		"/D/numbrrrs/bower.json",
-		"/D/numbrrrs/src/app/index.js",
-		"/D/numbrrrs/src/app/main/main.filters.js",
-		"/D/numbrrrs/src/app/main/main.services.js",
-		"/D/numbrrrs/bower_components/angular-material/bower.json",
-		"/D/numbrrrs/src/index.html",
-		"/D/numbrrrs/src/app/index.scss",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/D/numbrrrs/src/app/main/main.controller.js",
-		"/D/numbrrrs/package.json",
-		"/D/numbrrrs/gulp/wiredep.js",
-		"/D/numbrrrs/bower_components/angular-material/angular-material.js",
-		"/D/numbrrrs/src/components/navbar/navbar.html",
-		"/D/numbrrrs/src/assets/images/bars.svg",
-		"/D/numbrrrs/src/app/main/main.service.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/common/directives/utils.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/common/filters/filters-utils.js",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/status.jade",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/globals/_shame.scss",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/modules/_status.scss",
-		"/D/vdf-dashboard/Desarrollo/Gruntfile.js",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/demo.css",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/demo.htm",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/user/status/status-controller.js",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/app.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/app.js",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/layouts/default-partials/_common-body.jade",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/demo_multiple_iscrolls.html",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/ng-iScroll/demo/demo_multiple_iscrolls.htm",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/angular/angular.js",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/iscroll/build/iscroll-probe.js",
-		"/D/BU/vdf-dashboard BU/Desarrollo/app/scripts/common/directives/utils.js",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/layouts/default-partials/_html-header.jade",
-		"/D/vdf-dashboard/Desarrollo/app/index.html",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/common/directives/infiniteScroll.js",
-		"/D/vdf-dashboard/Desarrollo/app/styles/main.css",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/themes/bootstrap/bootstrap-vdf-dashboard.scss",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/main.scss",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/styles.scss",
-		"/D/vdf-dashboard/Desarrollo/.tmp/concat/styles/styles.css",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/common/services/req-s.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/app-config-services.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/app-config.js",
-		"/D/vdf-dashboard/Desarrollo/app/styles/themes/bootstrap/bootstrap-vdf-red-channel.css",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/common/services/transform-request-service.js",
-		"/D/vdf-dashboard/Desarrollo/server.js",
-		"/D/vdf-dashboard/Desarrollo/dist/styles/9bb74ddb.main.css",
-		"/D/vdf-dashboard/Desarrollo/dist/index.html",
-		"/D/vdf-dashboard/Desarrollo/package.json",
-		"/D/iSales-Front/server.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/user/status/status-home-controller.js",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/globals/_fix-icons.scss",
-		"/D/iSales-Front/app/assets/sass/styles.scss",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/themes/bootstrap/_variables.scss",
-		"/D/iSales-Front/app/bower_components/bootstrap/dist/css/bootstrap.css",
-		"/D/iSales-Front/Gruntfile.js",
-		"/D/iSales-Front/app/index.html",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/layouts/default-partials/_header.jade",
-		"/D/vdf-dashboard/Desarrollo/app/styles/styles.css",
-		"/D/vdf-dashboard/Desarrollo/dist-server.js",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/bootstrap/dist/css/bootstrap.css",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/themes/bootstrap/_tables.scss",
-		"/D/vdf-dashboard/Desarrollo/app/bower_components/sass-bootstrap/lib/_tables.scss",
-		"/D/vdf-dashboard/Desarrollo/app/styles/vendors/bootstrap.css",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/modules/_dashboard.scss",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/globals/_animations.scss",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/dashboard/dashboard-status.jade",
-		"/D/logout service antiguo",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/user/activity/activity-controller.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/user/issues/issues-controller.js",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/details.jade",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/dashboard/dashboard-issues.jade",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/dashboard.jade",
-		"/D/vdf-dashboard/Desarrollo/server_files/routes.js",
-		"/D/vdf-dashboard/Desarrollo/server_files/dummy/activities.js",
-		"/D/vdf-dashboard/Desarrollo/server_files/dummy/issues-old.js",
-		"/D/vdf-dashboard/Desarrollo/server_files/dummy/issues.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/user/details/details-controller.js",
-		"/D/vdf-dashboard/Desarrollo/server_files/dummy/status.js",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/components/dashboard/dashboard-activity.jade",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/main-view.jade",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/globals/_variables.scss",
-		"/D/vdf-dashboard/Desarrollo/.sass-cache/8a02c969103def99e19da56d40927e23ae1dc57b/_status.scssc",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/modules/_details.scss",
-		"/D/vdf-dashboard/Desarrollo/app/views/components/dashboard/dashboard-status.html",
-		"/D/vdf-dashboard/Desarrollo/app/assets/sass/modules/_responsive-table.scss",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/common/services/utils-service.js",
-		"/D/vdf-dashboard/Desarrollo/app/assets/jade/index.jade",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/user/activity/activity-service.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/logout/logout-controller.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/user/issues/issues-service.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/login/login-controller.js",
-		"/D/vdf-dashboard/Desarrollo/app/scripts/user/user-controller.js"
+		"/Users/davidguijarro/Documents/numbrrrs/package.json",
+		"/Users/davidguijarro/Documents/numbrrrs/src/app/index.scss",
+		"/Users/davidguijarro/Documents/numbrrrs/src/index.html",
+		"/Users/davidguijarro/Documents/numbrrrs/README.md",
+		"/Users/davidguijarro/Documents/nius/APIs",
+		"/Users/davidguijarro/Documents/nius/app/scripts/controllers.js",
+		"/Users/davidguijarro/Documents/nius/app/index.html",
+		"/Users/davidguijarro/Documents/nius/app/scripts/app.js",
+		"/Users/davidguijarro/Documents/nius/www/index.html",
+		"/Users/davidguijarro/Desktop/autoboost/src/bg/background.js",
+		"/Users/davidguijarro/Desktop/autoboost/src/inject/inject.js",
+		"/Users/davidguijarro/Desktop/autoboost/manifest.json",
+		"/Users/davidguijarro/Dropbox/hashletroiwizard/js/main.js",
+		"/Users/davidguijarro/Documents/hrw-node/views/layouts/main.handlebars",
+		"/Users/davidguijarro/Documents/hrw-node/package.json",
+		"/Users/davidguijarro/Documents/hrw-node/app.js",
+		"/Users/davidguijarro/Documents/hashletroiwizard/current/js/main.js",
+		"/Users/davidguijarro/Documents/hashletroiwizard/js/main.js",
+		"/Users/davidguijarro/Documents/hashletwisdom/js/main.js",
+		"/Users/davidguijarro/Documents/hashletwisdom/index.html",
+		"/Users/davidguijarro/Documents/langwarz/app/styles/main.scss",
+		"/Users/davidguijarro/Documents/langwarz/app/scripts/styling/selects.js",
+		"/Users/davidguijarro/Documents/langwarz/app/index.html",
+		"/Users/davidguijarro/Documents/btc4free/php-proxy/config.php",
+		"/Users/davidguijarro/Documents/btc4free/proxy.php",
+		"/Users/davidguijarro/Documents/btc4free/index.html",
+		"/Applications/MAMP/htdocs/btc4free/ba-simple-proxy.php",
+		"/Applications/MAMP/htdocs/btc4free/styles.css",
+		"/Applications/MAMP/htdocs/btc4free/main.js",
+		"/Applications/MAMP/htdocs/btc4free/index.html",
+		"/Users/davidguijarro/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/davidguijarro/Documents/btc4free/ba-simple-proxy.php",
+		"/Users/davidguijarro/Documents/btc4free/main.js",
+		"/Users/davidguijarro/Documents/btc4free/styles.css",
+		"/Users/davidguijarro/Documents/btc4free/main.css",
+		"/Users/davidguijarro/Documents/btc4free/loadiframe.js",
+		"/Users/davidguijarro/Desktop/satoshidice.py",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/16_418/html/index.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/html/xx-xx_xxx_HTML/index.html",
+		"/Users/davidguijarro/Dropbox/studioapparte.com/PUX/swiper/smooth.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/24-35_418/html/flip.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/24-35_418/html/mapa_toledo_3.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/24-35_418/html/mapa_toledo_1.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/24-35_418/html/mapa_toledo_2.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/24-35_418/mapa_toledo_3.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/24-35_418/mapa_toledo_1.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/24-35_418/mapa_toledo_2.html",
+		"/Users/davidguijarro/Documents/P-UX/Viajar/mapa.html",
+		"/Users/davidguijarro/Documents/popcorn-app/Gruntfile.js",
+		"/Users/davidguijarro/Dropbox/Aplicaciones/KISSr/woman.kissr.com/258PORTAhtml.html",
+		"/Users/davidguijarro/Documents/2048/style/home.css",
+		"/Users/davidguijarro/Documents/2048/js/nav.js",
+		"/Users/davidguijarro/Documents/2048/index.html",
+		"/Users/davidguijarro/Documents/2048/ocho.html",
+		"/Users/davidguijarro/Documents/2048/style/ocho-colors.scss",
+		"/Users/davidguijarro/Documents/2048/style/ocho.scss",
+		"/Users/davidguijarro/Documents/2048/js/cuatro.js",
+		"/Users/davidguijarro/Documents/2048/cuatro.html",
+		"/Users/davidguijarro/Documents/2048/style/cuatro.scss",
+		"/Users/davidguijarro/Documents/2048/style/cuatro-colors.scss",
+		"/Users/davidguijarro/Documents/2048/style/main.scss",
+		"/Users/davidguijarro/Documents/2048/2048.sublime-project",
+		"/Users/davidguijarro/Documents/2048/style/main.css",
+		"/Users/davidguijarro/Documents/2048/js/game_manager.js",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/peoplechoice.html",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/index.html",
+		"/Users/davidguijarro/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/scss/app.scss",
+		"/Users/davidguijarro/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/js/galerias.js",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/scss/_variables.scss",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/scss/ionic.scss",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/scss/_button.scss",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/css/app.css",
+		"/Users/davidguijarro/Downloads/3.0.5/examples/01-default.html",
+		"/Users/davidguijarro/Documents/Cuore/Cuorefotos/css/estilos.css",
+		"/Users/davidguijarro/Documents/JS/PhotoSwipe-master/src/examples/01-default.html",
+		"/Users/davidguijarro/Documents/JS/PhotoSwipe-master/README.md",
+		"/Users/davidguijarro/Documents/Cuorefotos/js/services.js",
+		"/Users/davidguijarro/Documents/Cuorefotos/index.html",
+		"/Users/davidguijarro/Documents/Cuorefotos/js/app.js",
+		"/Users/davidguijarro/Documents/Cuorefotos/js/controllers.js",
+		"/Users/davidguijarro/Documents/Cuorefotos/peoplechoice.html",
+		"/Users/davidguijarro/Documents/JS/ionic-0.9.19-alpha/examples/starters/tabs/index.html",
+		"/Users/davidguijarro/Documents/JS/ionic-0.9.19-alpha/examples/starters/flickr/README.md",
+		"/Users/davidguijarro/Documents/JS/1.0.11/examples/advanced-setup.html",
+		"/Users/davidguijarro/Documents/JS/1.0.11/examples/jquery-mobile.html",
+		"/Users/davidguijarro/Documents/JS/1.0.11/examples/index.html",
+		"/Users/davidguijarro/Documents/JS/1.0.11/README.md",
+		"/Users/davidguijarro/Documents/JS/1.0.11/examples/exclusive-mode.html",
+		"/Users/davidguijarro/Documents/JS/1.0.11/examples/exclusive-mode-with-array.html",
+		"/Users/davidguijarro/Documents/JS/ionic-0.9.19-alpha/examples/starters/README.md",
+		"/Users/davidguijarro/Documents/JS scripts/ionic-0.9.19-alpha/examples/starters/README.md",
+		"/Users/davidguijarro/Documents/JS scripts/ionic-0.9.19-alpha/examples/starters/list/index.html",
+		"/Users/davidguijarro/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
-			"D:\\vdf-dashboard\\Desarrollo\\app",
-			"D:\\vdf-dashboard\\Desarrollo\\app\\scripts,D:\\vdf-dashboard\\Desarrollo\\app\\assets",
-			"D:\\vdf-dashboard\\Desarrollo\\app\\",
-			"D:\\vdf-dashboard\\Desarrollo\\app\\scripts",
-			"D:\\vdf-dashboard\\Desarrollo\\app"
 		]
 	},
 	"find_state":
@@ -527,120 +372,37 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"gameFinished",
-			"animated",
-			"animate-switch",
-			"height",
-			"107px",
-			"\n          ",
-			"\n            ",
-			"    ",
-			"height",
-			"ngAnimate",
-			"delay: 100",
-			", {duration: 10}",
-			"\"translateY(0px)\"",
-			"\"translateY(\" ",
-			"\"px)\"",
-			"transform",
-			"back",
-			"compass",
-			"over",
-			"watch",
-			"{}\n",
-			"transformRequestAsFormPost",
-			"gly",
-			"cssmin",
-			"carousel",
-			"car",
-			"useminPrepare",
-			"ngmin",
-			" '",
-			"compass",
-			"concur",
-			"cssmin",
-			"rev",
-			"concat",
-			"10",
-			"1000",
-			"jquery",
-			"position",
-			"-webkit-overflow-scrolling: touch",
-			"overflow",
-			"-webkit-overflow-scrolling",
-			"fixed",
-			"slide-{{$root.direction}}",
-			"livereload",
-			"rev",
-			"usemin",
-			"uglify",
-			"cssmin",
-			"class",
-			"then",
-			"dist",
-			"setVars",
-			"to",
-			"setVars",
-			"track",
-			"range",
-			"if (range == 'weekly') $scope.to = moment(from).add(7, 'days').endOf('day').toDate(); ",
-			"-10",
-			"-30",
-			")+30",
-			"slide",
-			"class=\"slide-{{$root.direction}}\" ",
-			"response.data[0]",
-			"modified",
-			"priority",
-			"issue",
-			");\n",
-			"response.data",
-			"data",
-			"fade-in",
-			"ng-repeat",
-			"ng-class=\"$root.animationClass\"",
-			"intercept",
-			"ng-class=",
-			"slide-left",
-			"ng-class=\"$parent.animationClass\"",
-			"class=\"rotate\"",
-			"class=\"slide-left\"",
-			"class=\"rotate\"",
-			"slide-left",
-			"animate",
-			"class=\"animate\"",
-			"ng-animate",
-			"cubic-bezier(0.250, 0.250, 0.750, 0.750)",
-			"1000ms",
-			"400ms",
-			"ng-repeat",
-			"#e6e6e6",
-			"weekly",
-			"ng-click",
-			"previous",
-			"back",
-			"window.innerWidth",
-			"translateProvider",
-			"range",
-			"timeout",
-			"HOME.STATUS",
-			"hasnext",
-			"hasNext",
-			"lr-infinite-scroll='next' ",
-			"positionX",
-			"padding: 14",
-			".fixed-heading",
-			"cabeceras[0]",
-			"log",
-			"fixed-heading",
-			"rowspan-heading",
-			"raw",
-			"position-body-table",
-			"death",
-			"userconfig",
-			"responseData",
-			"ActivityListFactory",
-			"responseData"
+			"nice",
+			"selectedLang02",
+			"selectedLang01",
+			"\n}",
+			"iBody",
+			"flip-container",
+			"won",
+			"score-container",
+			"heading",
+			"{ background: ",
+			"last",
+			"first",
+			"30",
+			"$",
+			"$tile-gold-color",
+			"$tile-color",
+			"$bright-text-color",
+			"$text-color",
+			"$game-container-background",
+			"tile-8",
+			"#tile-8",
+			"#54b5b0",
+			"container",
+			"2048",
+			"c88b66",
+			"bar",
+			"subheader",
+			"Pie",
+			"..",
+			"movies",
+			"/dist"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -665,11 +427,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 25.0
 	},
 	"input":
 	{
-		"height": 30.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -694,13 +456,14 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 222.0
-	},
-	"replace":
+	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"project": "numbrrrs.sublime-project",
+	"replace":
+	{
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -708,46 +471,6 @@
 		"height": 0.0,
 		"selected_items":
 		[
-			[
-				"status.ja",
-				"app/assets/jade/components/status.jade"
-			],
-			[
-				"shame",
-				"app/assets/sass/globals/_shame.scss"
-			],
-			[
-				"status",
-				"app/assets/sass/modules/_status.scss"
-			],
-			[
-				"stat",
-				".sass-cache/8a02c969103def99e19da56d40927e23ae1dc57b/_status.scssc"
-			],
-			[
-				"statushome",
-				"app/scripts/user/status/status-home-controller.js"
-			],
-			[
-				"status.",
-				"server_files/dummy/status.js"
-			],
-			[
-				"dash",
-				"app/assets/jade/components/dashboard/dashboard-status.jade"
-			],
-			[
-				"issue",
-				"app/scripts/user/issues/issues-service.js"
-			],
-			[
-				"services",
-				"app/scripts/app-config-services.js"
-			],
-			[
-				"dashboard",
-				"app/assets/jade/components/dashboard/dashboard-status.jade"
-			]
 		],
 		"width": 0.0
 	},
@@ -756,17 +479,28 @@
 		"height": 500.0,
 		"selected_items":
 		[
-			[
-				"",
-				"/D/iSales-Front/iSales.sublime-project"
-			]
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 197.0,
-	"status_bar_visible": true
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
